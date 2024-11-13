@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ##
-![snake gif](https://github.com/aethnae/aethnae/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/kaii1teak/kaii1teak/blob/output/github-snake-dark.svg)
