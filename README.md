@@ -44,7 +44,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="35" alt="windows8 logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Zorin_OS.svg" height="35" alt="zorin os logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg" height="35" alt="Manjaro logo"  />
 </div>
 
 ###
