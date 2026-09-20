@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hlib Naugolnyy
 
-<!--
-**kaii1teak/kaii1teak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT student focused on software development, AI and e-commerce.
 
-Here are some ideas to get you started:
+I build web applications, automation tools and AI-powered projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech
+
+Languages
+JavaScript · Python · Java · C#
+
+Frontend
+React · Vite · Tailwind CSS
+
+Backend / Data
+Python · REST APIs · SQL
+
+Tools
+Git · GitHub · Shopify · Linux · Macos
+
+### Featured Projects
+
+- 🤖 AI / chatbot applications
+- 🛒 E-commerce projects
+- 🧠 AI & data engineering projects
+- 🌐 Full-stack web applications
+
+### Currently
+
+🎓 Studying Informatics in Warsaw  
+💻 Building web & AI projects  
+🛍️ Working with e-commerce and Shopify
+
+[LinkedIn](https://www.linkedin.com/in/hlibnaugolnyy/)
