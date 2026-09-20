@@ -20,15 +20,15 @@ Git · GitHub · Shopify · Linux · Macos
 
 ### Featured Projects
 
-- 🤖 AI / chatbot applications
-- 🛒 E-commerce projects
-- 🧠 AI & data engineering projects
-- 🌐 Full-stack web applications
+- AI / chatbot applications
+- E-commerce projects
+- AI & data engineering projects
+- Full-stack web applications
 
 ### Currently
 
-🎓 Studying Informatics in Warsaw  
-💻 Building web & AI projects  
-🛍️ Working with e-commerce and Shopify
+Studying Informatics in Warsaw  
+Building web & AI projects  
+Working with e-commerce and Shopify
 
 [LinkedIn](https://www.linkedin.com/in/hlibnaugolnyy/)
