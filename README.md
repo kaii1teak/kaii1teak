@@ -12,7 +12,7 @@ Informatics student in Warsaw. I build web applications and AI-powered tools, an
 
 Live prices streamed over WebSocket, a heatmap of the whole market, line and candlestick charts you can scroll back through time, side-by-side comparison of up to four assets, a watchlist, and a keyboard-first interface with a command palette. Light and dark themes.
 
-Built with Next.js, TypeScript, Tailwind CSS, TanStack Query and Zustand. Covered by 1,300+ unit tests. Deployed on Vercel.
+Built with Next.js, TypeScript, Tailwind CSS, TanStack Query and Zustand. Covered by 1000+ unit tests. Deployed on Vercel.
 
 [Live demo](https://pelago-project.vercel.app) · [Source code](https://github.com/kaii1teak/Pelago-project) <!-- TODO: make the Pelago-project repository public before publishing this link, otherwise visitors get a 404 -->
 
